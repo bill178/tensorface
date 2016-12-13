@@ -1,0 +1,4 @@
+download dataset according to README.md here
+http://vision.ucsd.edu/~iskwak/ExtYaleDatabase/ExtYaleB.html
+cropped dataset
+run save_data.py to get .npy numpy file

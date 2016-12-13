@@ -1,0 +1,5 @@
+Usage:
+eigenface > 0    - choose one picture from each subject as test
+eigenface > 1    - choose one picture from one subject as test
+eigenface > 2    - draw eigenfaces into ./image
+eigenface > exit - exit python

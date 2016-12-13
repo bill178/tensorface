@@ -1,0 +1,3 @@
+Usage:
+cs231n > 0    - choose one picture from each subject as test
+cs231n > exit - exit python

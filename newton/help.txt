@@ -1,0 +1,5 @@
+Usage:
+newton > 0    - save model
+newton > 1    - choose one picture from each subject as test
+newton > 2    - draw pictures
+newton > exit - exit python

@@ -1,0 +1,2 @@
+download dataset according to README
+run save_data.py to convert them into .npu numpy file for faster reading in program
